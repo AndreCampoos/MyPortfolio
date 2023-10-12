@@ -72,6 +72,10 @@
     margin-bottom: 0;
 }
 
+.project-details h5:nth-child(1){
+    font-size: 19px;
+}
+
 .project-details p{
     color: #000;
     font-size: 16px;
@@ -154,6 +158,7 @@ details img{
 
 .contacts-icons img{
     margin-right: 5px;
+    margin-bottom: 15px;
     width: 35px;
     height: 35px;
 }
